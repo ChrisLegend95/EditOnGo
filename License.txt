@@ -1,0 +1,45 @@
+# LICENSE
+
+Copyright © 2026 ChrisLegend. All rights reserved.
+
+## 1. Permission to Use
+
+You are permitted to use, copy, modify, and distribute this work, including for personal, educational, and commercial purposes.
+
+## 2. Modification
+
+You may modify, edit, adapt, or otherwise change the work for your own projects or for projects you create for others.
+
+## 3. Commercial Use
+
+Commercial use is permitted. You may use the work in commercial products, services, videos, games, applications, websites, advertisements, and other projects.
+
+## 4. Redistribution
+
+You may redistribute the original or modified work as part of a larger project.
+
+You may not redistribute the original work by itself as a competing standalone asset, package, or product without significant modification or additional content.
+
+## 5. Selling the Work
+
+You may not sell, license, or otherwise distribute the original unmodified work by itself as a standalone product or asset.
+
+## 6. Attribution
+
+Attribution is appreciated but not required.
+
+## 7. Ownership
+
+The original copyright and ownership of this work remain with ChrisLegend. This license does not transfer ownership or copyright to anyone else.
+
+## 8. Warranty
+
+This work is provided "as is", without warranty of any kind. ChrisLegend is not responsible for any damages, losses, or other issues resulting from the use of this work.
+
+## 9. License Changes
+
+This license applies to versions of the work distributed under it. ChrisLegend may release future versions under different license terms, but changes to the license will not retroactively revoke permissions already granted under this license.
+
+## 10. Contact
+
+For permissions or questions regarding this license, contact the copyright holder.
