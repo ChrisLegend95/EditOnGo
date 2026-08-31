@@ -6,6 +6,9 @@ The goal of EditOnGo Studio is to provide a powerful video editing experience di
 
 ## ✨ Features
 
+### ⚠️ The project is still in start of it's stage and saving project will work but the audio wont be saved when importing a saved project file.
+  Keep in mind that the edit is not saving anything you have done so if you make a video you must exsport or you will have lost the project.
+
 ### 🎞️ Video Editing
 - Multi-track video and audio timeline
 - Timeline ruler and playhead
