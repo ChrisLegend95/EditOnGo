@@ -7,6 +7,8 @@
 
 EditOnGo Studio is a free browser-based video editing application currently in development.
 
+here is the link [https://chrislegend95.github.io/EditOnGo/]
+
 The goal of EditOnGo Studio is to provide a powerful video editing experience directly in the browser without requiring users to install traditional editing software.
 
 ## ✨ Features
