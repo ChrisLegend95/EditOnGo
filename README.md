@@ -1,3 +1,8 @@
+
+<img width="250" height="250" alt="EditOnGo Logo" src="https://github.com/user-attachments/assets/3b47806d-1080-4601-8f9d-622b701129e9" />
+
+
+
 # 🎬 EditOnGo Studio
 
 EditOnGo Studio is a free browser-based video editing application currently in development.
